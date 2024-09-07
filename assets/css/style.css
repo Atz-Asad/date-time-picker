@@ -1,0 +1,23 @@
+
+
+body{
+	background: #FFF;
+	color: #000;
+}
+
+
+
+.widget {
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+.widget input{
+	width: 100%;
+}
+/* .mbsc-windows-dark.mbsc-popup{
+	background: #FFF;
+}
+.mbsc-windows-dark.mbsc-scroller-wheel-wrapper{
+	color: #000;
+} */
